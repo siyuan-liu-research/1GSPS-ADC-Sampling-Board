@@ -1,7 +1,4 @@
 # 1GSPS-ADC-Sampling-Board
-1GSPS High-Speed ADC Sampling Board (Schematics/PCB/Firmware）
-
-# 1GSPS-ADC-Sampling-Board
 1GSPS High-Speed ADC Sampling Board (HMCAD1511TR) | Hardware Design + FPGA Firmware Development + Performance Test Script | 2025 Undergraduate Innovation Practice Training Program Project, National Astronomical Observatories, Chinese Academy of Sciences
 
 ## Project Overview
